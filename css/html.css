@@ -194,13 +194,14 @@ body{
 	text-align:center;
 	font-size:350%;
 	color:#000000;
+	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
 	
 .text2 .p1{
 	margin:0;
 	padding:0 0 20px;
 	text-align:center;
-	font-size:300%;
+	font-size:250%;
 	color:#000000;
 	}
 	
@@ -208,7 +209,7 @@ body{
 	margin:0;
 	padding:0 0 20px;
 	text-align:center;
-	font-size:270%;
+	font-size:170%;
 	color:#000000;
 	}
 	
