@@ -237,3 +237,17 @@ body{
 	color:#000000;
 	}
 	
+.text4{
+	background:#000000;
+	box-sizing:border-box;
+	padding:10px 3px;
+	border-radius:5%;
+	}
+	
+.text4 h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#FFFFFF;
+	}
