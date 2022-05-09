@@ -161,3 +161,23 @@ body{
 
 	}
 
+.text1{
+	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
+	}
+	
+.text1 h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#FFFFFF;
+	}
+	
+.text1 from p{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:180%;
+	color:#FFFFFF;
+	}
+	
