@@ -1,1 +1,41 @@
+body{
+	
+	
+	background:#EDEDED;
+
+	
+
+	font-family:sans-serif;
+
+	}
+
+	
+
+.mainhead{
+
+	background:#000000;
+
+	}
+
+	
+
+.mainhead h1{
+
+	color:#ffffff;
+
+	text-align:center;
+
+	font-size:550%;
+
+	font-weight: bold;
+
+	}
+
+	
+
+.mainhead h1 t{
+
+	color:#FF0000;
+
+	}
 
