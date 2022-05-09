@@ -46,6 +46,72 @@ body{
 	background-color:#000000;
 
 	}
+	
+	
+.maintital{
+
+	margin:0 auto;
+        font-size:150%;
+        background:#000000;
+
+	}
+
+	
+
+.maintital .nav1{
+
+	padding-top:10px;
+
+	color:#FFFFFF;
+
+	}
+
+	
+
+.maintital .nav1 h3 t{
+
+	color:#FF0000;
+
+	}
+
+	
+
+.maintital .nav1 ul{
+
+	list-style:none;
+
+	margin:0 auto;
+
+	padding:0 auto;
+
+	}
+
+	
+
+.maintital .nav1 ul li a{
+
+	text-decoration:none;
+
+	color:#FFFFFF;
+
+	}
+
+	
+
+.maintital .nav1 ul li a:hover{
+
+	color:#FF000A;
+
+	}
+
+	
+
+.maintital .nav1 ul{
+
+	display: none;
+
+	}
+	
 
 	
 
