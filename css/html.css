@@ -261,3 +261,18 @@ body{
 .text4 p ul{
 	color:#FFFFFF;
 	}
+	
+.text5{
+	background:#FFFFFF;
+	box-sizing:border-box;
+	padding:10px 3px;
+	border-radius:5%;
+	}
+	
+.text5 h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#000000;
+	}
