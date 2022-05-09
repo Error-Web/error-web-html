@@ -196,6 +196,30 @@ body{
 	color:#000000;
 	}
 	
+.text2 .p1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:300%;
+	color:#000000;
+	}
+	
+.text2 .p2{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:270%;
+	color:#000000;
+	}
+	
+.text2 .p3{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#000000;
+	}
+	
 .text3 {
 	background:#C6C6C6;
 	box-sizing:border-box;
