@@ -413,6 +413,8 @@ text7 p tt{
 	color:darkgrey;
 	}
 	
-.next nav button a:hover{
-	color:#FF4F1D;
+.next nav button:hover{
+	cusor:pointer;
+	background-color:#FF9900;
+	color:#FFFFFF;
 	}
