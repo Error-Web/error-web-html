@@ -412,3 +412,7 @@ text7 p tt{
 	line-height:20px;
 	color:darkgrey;
 	}
+	
+.next nav button a:hover{
+	color:#FF4F1D;
+	}
