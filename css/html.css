@@ -355,3 +355,20 @@ tr:nth-child(even) {
 text7 p tt{
 	color:#FF1100;
 	}
+	
+.text7 {
+	background:#000000;
+	box-sizing:border-box;
+	padding:10px 3px;
+	border-radius:5%;
+	color:#FFFFFF;
+	}
+	
+.text7 h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:350%;
+	color:#FFFFFF;
+	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
+	}
