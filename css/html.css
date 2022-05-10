@@ -396,3 +396,8 @@ text7 p tt{
 	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
 	
+.next .next1{
+	margin-top:10px; margin-left:10px; margin-right:10px;
+
+      border-radius:10px;
+	}
