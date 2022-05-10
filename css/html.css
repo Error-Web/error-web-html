@@ -379,7 +379,7 @@ text7 p tt{
   margin-right: auto;
 	}
 	
-.text9 {
+.text9{
 	background:#FFFFFF;
 	box-sizing:border-box;
 	padding:10px 3px;
@@ -387,7 +387,7 @@ text7 p tt{
 	color:#000000;
 	}
 	
-.tex9 h1{
+.tex9 h{
 	margin:0;
 	padding:0 0 20px;
 	text-align:center;
@@ -403,7 +403,8 @@ text7 p tt{
 	outline:none;
 	height:40px;
 	color:#FFFFFF;
-	font-size:18px;
+	font-size:250%;
+	
 	}
 	
 .next nav button a{
