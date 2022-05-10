@@ -311,6 +311,10 @@ body{
 	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
 	
+.text6 p ul li tt{
+	color:#FF1100;
+	}
+	
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
