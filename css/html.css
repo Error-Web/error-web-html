@@ -396,26 +396,3 @@ text7 p tt{
 	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
 	
-.next nav button{
-	border:none;
-	border-radius:20px;
-	background:#fb2525;
-	outline:none;
-	height:40px;
-	color:#FFFFFF;
-	font-size:250%;
-	text-align:center;
-	}
-	
-.next nav button a{
-	text-decoration:none;
-	font-size:12px;
-	line-height:20px;
-	color:darkgrey;
-	}
-	
-.next nav button:hover{
-	cusor:pointer;
-	background-color:#FF9900;
-	color:#FFFFFF;
-	}
