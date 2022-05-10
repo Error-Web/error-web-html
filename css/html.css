@@ -356,7 +356,7 @@ text7 p tt{
 	color:#FF1100;
 	}
 	
-.text7 {
+.text8 {
 	background:#000000;
 	box-sizing:border-box;
 	padding:10px 3px;
@@ -364,7 +364,7 @@ text7 p tt{
 	color:#FFFFFF;
 	}
 	
-.text7 h1{
+.tex8 h1{
 	margin:0;
 	padding:0 0 20px;
 	text-align:center;
@@ -373,7 +373,7 @@ text7 p tt{
 	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
 	
-.text7 img{
+.text8 img{
 	display: block;
   margin-left: auto;
   margin-right: auto;
