@@ -403,7 +403,9 @@ text7 p tt{
 	}
 	
 .next .next1 ul{
-
 	list-style:none;
-
+	}
+	
+.next .next1 ul li{
+	display: initial;
 	}
