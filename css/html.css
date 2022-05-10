@@ -395,3 +395,13 @@ text7 p tt{
 	color:#FFFFFF;
 	background: linear-gradient(110deg, #000000 60%,#FF000E 60%);
 	}
+	
+.next nav button{
+	border:none;
+	border-radius:20px;
+	background:#fb2525;
+	outline:none;
+	height:40px;
+	color:#FFFFFF;
+	font-size:18px;
+	}
