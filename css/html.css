@@ -326,3 +326,7 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+.note{
+	background-color:#FFF37B;
+	}
