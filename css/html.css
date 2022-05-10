@@ -405,3 +405,10 @@ text7 p tt{
 	color:#FFFFFF;
 	font-size:18px;
 	}
+	
+.next nav button a{
+	text-decoration:none;
+	font-size:12px;
+	line-height:20px;
+	color:darkgrey;
+	}
