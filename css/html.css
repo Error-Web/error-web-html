@@ -416,9 +416,34 @@ text7 p tt{
 	background:transparent;
 	}
 
-	
-
 .next .next1 ul li button a{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:125%;
+	}
+	
+	
+.nbpg .next2{
+	margin-top:10px; margin-left:10px; margin-right:10px;
+
+      border-radius:10px;
+	}
+	
+.nbpg .next2 ul{
+	list-style:none;
+	}
+	
+.nbpg .next2 ul li{
+	display: initial;
+	}
+	
+.nbpg .next2 ul li button{
+	background-color:#000000;
+	font-size:125%;
+	background:transparent;
+	}
+
+.nbpg .next2 ul li button a{
 	text-decoration:none;
 	color:#FFFFFF;
 	font-size:125%;
