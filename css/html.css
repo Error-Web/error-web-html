@@ -422,6 +422,11 @@ text7 p tt{
 	font-size:125%;
 	}
 	
+.nbpg{
+	margin:0 auto;
+	font-size:175%;
+	background-color:#000000;
+	}
 	
 .nbpg .next2{
 	margin-top:10px; margin-left:10px; margin-right:10px;
