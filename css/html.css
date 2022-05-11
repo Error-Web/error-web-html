@@ -402,6 +402,12 @@ text7 p tt{
       border-radius:10px;
 	}
 	
+.next{
+	margin:0 auto;
+	font-size:175%;
+	background-color:#000000;
+	}
+	
 .next .next1 ul{
 	list-style:none;
 	}
