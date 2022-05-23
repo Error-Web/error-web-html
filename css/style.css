@@ -4118,3 +4118,8 @@ input, select, textarea {
 .e4y-codespan{
 	color: #FF0006;
 	}
+	
+.spes_tagname {color:brown;}
+.spes_tag {color:mediumblue;}
+body.darkpagetheme .spes_tagname {color:#ff9999;}
+body.darkpagetheme .spes_tag {color:#88ccbb;}
