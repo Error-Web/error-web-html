@@ -4134,8 +4134,10 @@ input, select, textarea {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  color: #000000;
 }
 
 .table-tags tr:nth-child(even) {
   background-color: #dddddd;
+  color: #000000;
 }
