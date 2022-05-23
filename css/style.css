@@ -4121,8 +4121,8 @@ input, select, textarea {
 	
 .spes_tagname {color:brown;}
 .spes_tag {color:mediumblue;}
-body.darkpagetheme .spes_tagname {color:#ff9999;}
-body.darkpagetheme .spes_tag {color:#88ccbb;}
+.spes_tagname {color:#ff9999;}
+.spes_tag {color:#88ccbb;}
 
 .table-tags{
   font-family: arial, sans-serif;
