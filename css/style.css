@@ -4123,3 +4123,19 @@ input, select, textarea {
 .spes_tag {color:mediumblue;}
 body.darkpagetheme .spes_tagname {color:#ff9999;}
 body.darkpagetheme .spes_tag {color:#88ccbb;}
+
+.table-tags{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-tags td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.table-tags tr:nth-child(even) {
+  background-color: #dddddd;
+}
