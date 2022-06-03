@@ -4138,12 +4138,16 @@ input, select, textarea {
 }
 
 .table-tags tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #dddddd;k
   color: #000000;
 }
 
 .button .nextbutton a{
 	text-decoration: none;
 	display: inline-block;
-	padding: 8px 16px;
+	}
+	
+.button .nextbutton a:hover{
+	background-color:#FF0024;
+	color:#000000;
 	}
