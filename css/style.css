@@ -4145,4 +4145,5 @@ input, select, textarea {
 .button .nextbutton a{
 	text-decoration: none;
 	display: inline-block;
-	padding: 
+	padding: 8px 16px;
+	}
