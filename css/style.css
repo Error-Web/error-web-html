@@ -4168,12 +4168,12 @@ a::before{
 	background: #27282c;
 	}
 	
-.button a span{
+.btn a span{
 	position: relative;
 	z-index: 1;
 	}
 	
-.button a i{
+.btn a i{
 	position: absolute;
 	inset: 0;
 	display: block;
