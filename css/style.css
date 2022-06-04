@@ -4142,7 +4142,7 @@ input, select, textarea {
   color: #000000;
 }
 
-.button a{
+.btn a{
 	position: relative;
 	background: #444444;
 	color: #ffffff;
