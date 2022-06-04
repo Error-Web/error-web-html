@@ -4154,14 +4154,14 @@ input, select, textarea {
 	transition: 0.5s;
 	}
 	
-a:hover{
+.btn a:hover{
 	letter-spacing: 0.25em;
 	background: var(--crl);
 	color: var(--crl);
 	box-shadow: 0 0 35px var(--crl);
 	}
 	
-a::before{
+.btn a::before{
 	content: ' ';
 	position: absolute;
 	inset: 2px;
@@ -4179,7 +4179,7 @@ a::before{
 	display: block;
 	}
 	
-a i::before{
+.btn a i::before{
 	content: ' ';
 	position: absolute;
 	top: -3.5px;
@@ -4192,12 +4192,12 @@ a i::before{
 	transition: 0.5s;
 	}
 	
-a:hover i::before{
+.btn a:hover i::before{
 	width: 20px;
 	left: 20%;
 	}
 	
-a i::after{
+.btn a i::after{
 	content: ' ';
 	position: absolute;
 	bottom: -3.5px;
@@ -4210,7 +4210,7 @@ a i::after{
 	transition: 0.5s;
 	}
 	
-a:hover i::after{
+.btn a:hover i::after{
 	width: 20px;
 	left: 80%;
 	}
